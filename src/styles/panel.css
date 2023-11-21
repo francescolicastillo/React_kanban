@@ -1,0 +1,9 @@
+.panel {
+    width: fit-content;
+    min-height: 500px;
+    background-color: aqua;
+}
+
+.task {
+    margin: 10px 0;
+}

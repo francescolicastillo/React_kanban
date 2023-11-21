@@ -1,0 +1,7 @@
+.container {
+    display: flex;
+}
+
+.btn-newPanel {
+    height: 25px;
+}
