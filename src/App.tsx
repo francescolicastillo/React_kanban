@@ -19,7 +19,7 @@ function App() {
 
   return (
     <div className="App">
-      <h1>Kamban</h1>
+      <h1>Kanban</h1>
       <div className='container'>
         { panels }
         <button 
