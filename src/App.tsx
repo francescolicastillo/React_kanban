@@ -25,8 +25,9 @@ function App() {
         <button 
           className='btn-newPanel' 
           type='button' 
-          onClick={() => setPanelNr(panelNr+1)
-        }>+</button>
+          onClick={() => setPanelNr(panelNr+1)}
+          title='Add new'
+        >+</button>
       </div>
     </div>
   );

@@ -7,3 +7,7 @@
 .btn-newPanel {
     height: 25px;
 }
+
+button {
+    cursor: pointer;
+}
