@@ -27,7 +27,7 @@ function App() {
           type='button' 
           onClick={() => setPanelNr(panelNr+1)}
           title='Add new'
-        >+</button>
+        ><i className="fa-solid fa-plus"></i></button>
       </div>
     </div>
   );
